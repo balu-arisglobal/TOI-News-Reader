@@ -25,3 +25,4 @@ First invocation happens where user enters the configurable time in minutes, the
 > Windows not at all preferred for execution </br>
 > install python-dbus for hardware GUI changes to enable desktop notifications </br>
 > install all the packages in requirement.txt (pip install -r requirements.txt) </br>
+> Project structure looks like Flask but Please run only app.py from command line and nothing else as it is not required.
