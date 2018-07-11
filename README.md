@@ -17,3 +17,11 @@ it fetches the news from above invoke_toi and pops up to desktop at the mentione
 
 <h4>accept_configurable_time</h4>
 First invocation happens where user enters the configurable time in minutes, there by it sends the same to notifier
+
+
+
+<h3>Note</h3>
+> Prefered code for Ubuntu(any version)
+> Windows not at all preferred for execution
+> install python-dbus for hardware GUI changes to enable desktop notifications
+> install all the packages in requirement.txt (pip install -r requirements.txt)
