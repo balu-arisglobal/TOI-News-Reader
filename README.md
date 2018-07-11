@@ -21,7 +21,7 @@ First invocation happens where user enters the configurable time in minutes, the
 
 
 <h3>Note</h3>
-> Prefered code for Ubuntu(any version)
-> Windows not at all preferred for execution
-> install python-dbus for hardware GUI changes to enable desktop notifications
-> install all the packages in requirement.txt (pip install -r requirements.txt)
+> Prefered code for Ubuntu(any version) </br>
+> Windows not at all preferred for execution </br>
+> install python-dbus for hardware GUI changes to enable desktop notifications </br>
+> install all the packages in requirement.txt (pip install -r requirements.txt) </br>
