@@ -9,7 +9,7 @@ REST Invocation to TOI happens where it takes the top headlines along with apiKe
 
 
 <h4>notifier</h4>
-<h5>Arguements</h5>
+Parameters
 > timeInMinutes - configurable time 
 
 Notifier takes the user input time in minutes and converts it into milliseconds
