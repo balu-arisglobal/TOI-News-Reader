@@ -2,7 +2,7 @@
 A news reader REST python application where it invokes the TOI API to fetch the news and display the same onto desktop screen at regular interval of time
 
 
-#Method Description 
+<h3>Method Description</h3> 
 
 #invoke_toi
 REST Invocation to TOI happens where it takes the top headlines along with apiKey which is obtained by signing in
