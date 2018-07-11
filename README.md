@@ -11,7 +11,6 @@ REST Invocation to TOI happens where it takes the top headlines along with apiKe
 <h4>notifier</h4>
 Parameters
 > timeInMinutes - configurable time 
-
 Notifier takes the user input time in minutes and converts it into milliseconds
 it fetches the news from above invoke_toi and pops up to desktop at the mentioned intervals of time untill the news list is iterated fully.
 
